@@ -4,7 +4,7 @@ import './List.css'
 const List = () => {
   return (
     <div>
-        fdhfd
+      
     </div>
   )
 }
